@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+    background-color: aqua;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+}
+h1 {
+    color: azure;
+}
+h2 {
+    color: chartreuse;
+}
+p {
+    color: chocolate;
+    text-align: justify;
+}
